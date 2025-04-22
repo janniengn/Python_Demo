@@ -1,0 +1,6 @@
+ipynb
+pandas
+numpy
+seaborn
+chill
+
