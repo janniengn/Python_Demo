@@ -1,4 +1,4 @@
-ipynb
+ipykernel
 pandas
 numpy
 seaborn
